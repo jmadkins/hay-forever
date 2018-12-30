@@ -8,13 +8,6 @@
      </value>
    </Operation>
 
-    <!-- <Operation Class="PatchOperationReplace"> -->
-    <!--   <xpath>Defs/ThingDef[defName ="Hay"]/comps/li[@Class="CompProperties_Rottable"]</xpath> -->
-    <!--   <value> -->
-    <!--     <daysToRotStart>120</daysToRotStart> -->
-    <!--   </value> -->
-    <!-- </Operation> -->
-
     <Operation Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName ="Hay"]/comps/li[@Class="CompProperties_Rottable"]/daysToRotStart</xpath>
       <value>
