@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<ModMetaData>
-		<name>Hay Forever! [1.0]</name>
-		<author>Justin Adkins</author>
+<ModMetaData>
+    <name>Hay Forever! [1.0]</name>
+    <author>Justin Adkins</author>
     <url>https://adkinss.io</url>
     <targetVersion>1.0.2059</targetVersion>
     <description>Hay lasts twice as long and does not deterioate when left outside.</description>
